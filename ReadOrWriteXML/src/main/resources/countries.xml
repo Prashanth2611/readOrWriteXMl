@@ -1,0 +1,4 @@
+<countries>
+    <country name="England" region="Europe" subregion="Western Europe" countryCode="eng" />
+    <country name="India" region="ASIA" subregion="South ASIA" countryCode="IN" />
+</countries>
